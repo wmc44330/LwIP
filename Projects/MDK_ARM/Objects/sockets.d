@@ -1,0 +1,46 @@
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\api\sockets.c
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/opt.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\lwipopts.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/debug.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/arch.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\arch/cc.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uCOS-III\Source\os.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-CFG\os_cfg.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-CPU\cpu_core.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-CPU\ARM-Cortex-M4\RealView\cpu.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-CPU\cpu_def.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-CFG\cpu_cfg.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-LIB\lib_def.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-LIB\lib_mem.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-CPU\cpu_core.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-CFG\lib_cfg.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-LIB\lib_str.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uC-LIB\lib_ascii.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uCOS-III\Source\os_type.h
+.\objects\sockets.o: ..\..\Middlewares\Micrium\uCOS-III\Ports\ARM-Cortex-M4\Generic\RealView\os_cpu.h
+.\objects\sockets.o: D:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/opt.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/sockets.h
+.\objects\sockets.o: D:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\ipv4\lwip/ip_addr.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/def.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\ipv4\lwip/inet.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/api.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/netbuf.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/pbuf.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/err.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/sys.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\arch/sys_arch.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\ipv4\lwip/igmp.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/netif.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/tcp.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/mem.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\ipv4\lwip/ip.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\ipv4\lwip/icmp.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/raw.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/udp.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/tcpip.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/api_msg.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/netifapi.h
+.\objects\sockets.o: ..\..\Middlewares\LwIP\src\include\lwip/timers.h
+.\objects\sockets.o: D:\Program Files\Keil\ARM\ARMCC\Bin\..\include\string.h

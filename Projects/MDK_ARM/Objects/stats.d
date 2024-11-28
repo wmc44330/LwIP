@@ -1,0 +1,22 @@
+.\objects\stats.o: ..\..\Middlewares\LwIP\src\core\stats.c
+.\objects\stats.o: ..\..\Middlewares\LwIP\src\include\lwip/opt.h
+.\objects\stats.o: ..\..\Middlewares\LwIP\lwipopts.h
+.\objects\stats.o: ..\..\Middlewares\LwIP\src\include\lwip/debug.h
+.\objects\stats.o: ..\..\Middlewares\LwIP\src\include\lwip/arch.h
+.\objects\stats.o: ..\..\Middlewares\LwIP\arch/cc.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uCOS-III\Source\os.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-CFG\os_cfg.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-CPU\cpu_core.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-CPU\ARM-Cortex-M4\RealView\cpu.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-CPU\cpu_def.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-CFG\cpu_cfg.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-LIB\lib_def.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-LIB\lib_mem.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-CPU\cpu_core.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-CFG\lib_cfg.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-LIB\lib_str.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uC-LIB\lib_ascii.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uCOS-III\Source\os_type.h
+.\objects\stats.o: ..\..\Middlewares\Micrium\uCOS-III\Ports\ARM-Cortex-M4\Generic\RealView\os_cpu.h
+.\objects\stats.o: D:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\stats.o: ..\..\Middlewares\LwIP\src\include\lwip/opt.h
